@@ -1,18 +1,30 @@
 ### 教程
 
 - [城北徐公公 - 知乎](https://zhuanlan.zhihu.com/insight-pixel)
+
 - [随机森林与决策树 · 机器学习笔记](https://clyyuanzi.gitbooks.io/julymlnotes/content/rf.html)
+
 - [神经网络基础 - 吴恩达《深度学习》系列课程笔记](http://kyonhuang.top/Andrew-Ng-Deep-Learning-notes/#/Neural_Networks_and_Deep_Learning/神经网络基础)
+
 - [PCA · 斯坦福机器学习笔记](https://yoyoyohamapi.gitbooks.io/mit-ml/content/特征降维/articles/PCA.html)
+
 - [黄钢的部落格|Canary Blog](https://alberthg.github.io/)
+
 - [红色石头的个人博客-机器学习、深度学习之路](http://redstonewill.com/)
+
 - [datawhalechina/pumpkin-book: 《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+
 - [Ebby's Notes](http://blog.a-stack.com/)
+
 - [David Silver强化学习公开课中文讲解及实践 - 知乎](https://zhuanlan.zhihu.com/reinforce)
+
 - [David Silver 增强学习——笔记合集（持续更新） - 知乎](https://zhuanlan.zhihu.com/p/50478310)
+
 - [DQN 从入门到放弃1 DQN与增强学习 - 知乎](https://zhuanlan.zhihu.com/p/21262246)
 
+- [**李弘毅机器学习课程**](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.788.videocard.0)
 
+  
 
 ### drl_uav
 
