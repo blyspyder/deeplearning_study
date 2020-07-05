@@ -24,6 +24,8 @@
 
 - [**李弘毅机器学习课程**](https://www.bilibili.com/video/BV1JE411g7XF/?spm_id_from=333.788.videocard.0)
 
+- [**李弘毅作业**](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
+
   
 
 ### drl_uav
